@@ -11,6 +11,15 @@ Rule tags: [V] verified by my own data. [T] testing, not proven. [H] hypothesis,
 2. Apply. Run the store or the campaign by the rules.
 3. Capture last. End every session or campaign by writing what I learned back into this file. Add a dated changelog line. Promote a rule from [T] to [V] when the data backs it. Kill a rule the data breaks.
 4. Compound. Each new store starts from the latest version of this file, so knowledge stacks instead of resetting.
+5. Reconcile, never duplicate. If I say something again, do not add a second copy and do not cancel the first. Match it to what is already here. Same thing, leave it. An update, edit in place and add a changelog line. A conflict, newest wins and the changelog says what changed. I never have to remember what is stored, the file does that for me.
+
+---
+
+## Voice and language
+Governs all copy, angles and market sizing.
+- Speak the customer's language. Use the words customers actually say, from their reviews and conversations, never invented jargon or terms they would not believe or use.
+- If I do not have their words yet, mark it a gap. Do not fill it with language they do not speak.
+- This applies to the TAM too. Size and describe the market in the customer's terms, not a foreign vocabulary.
 
 ---
 
