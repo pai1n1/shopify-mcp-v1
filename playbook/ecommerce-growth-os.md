@@ -23,6 +23,18 @@ Governs all copy, angles and market sizing.
 
 ---
 
+## Competitive gap pass (run for every product)
+No product launches without a named gap. Before the store or the ads, map the similar brands and find the opening.
+1. Find the field. List the brands selling a similar product, direct and adjacent.
+2. For each, capture three things. What they do well, so I match it. What they do badly, their weakness, so I beat it. What they do not do at all, the open gap, so I own it.
+3. Name the gap. One line, the thing none of them owns that this product can. If there is no gap, the product or the angle is wrong, not the market.
+4. Guard it. Check the gap is defensible and legal, and note how fast a funded competitor could close it.
+5. Feed it. The gap becomes the lead angle and the reason to buy, written in the customer's words.
+
+Rule: every product in the Store log carries its named gap and the weakness it beats. Re-check each cycle, gaps close as competitors move.
+
+---
+
 ## Meta ads doctrine
 My rules. Each new learning edits this section.
 
