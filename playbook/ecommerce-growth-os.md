@@ -108,7 +108,7 @@ Usage: "Generate 2 of Style 1 for [product]." The style carries the look, the pr
 
 ## Store log
 One entry per store. What I ran, what worked, what hurt, the number, the decision, the outcome. This is where patterns come from.
-- iMeow (prior cat brand, imeow.store): the predecessor to Catify, same customer. Pull all its Meta ads and Shopify data into this log, what won, what hurt, the numbers. The creative work already in the repo creative folder is iMeow learning, carry it to Catify. Known so far: the envy angle won near a 58 dollar CPA, cheap cute creative recruited non-buyers and drove near zero add to cart, context has to land in the first two seconds.
+- iMeow (prior cat brand, imeow.store): the predecessor to Catify, same customer. Its real record is months of data with multiple winners, and that lives in my Meta and Shopify on the laptop. Pull it fresh into this log before concluding anything, what won, what hurt, the numbers. The creative work in the repo creative folder is iMeow craft to carry forward. Caution: the early handoff in the repo was a partial snapshot from one moment, not the winners, so treat it as context only, never the verdict.
 - Catify: inherits iMeow's learnings as the starting point, then runs its own customer and competitive reads.
 - GR8: [fill on laptop]
 
