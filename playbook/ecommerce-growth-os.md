@@ -23,6 +23,18 @@ Governs all copy, angles and market sizing.
 
 ---
 
+## Customer read (run for every product)
+Before building, go where customers already talk and listen. Reviews, forums, comments, groups.
+1. Read reviews of similar products, the 1 to 3 star ones most of all, that is where the real wants and complaints sit.
+2. Read the forums, comments and groups where this customer gathers.
+3. Pull their actual words, what they struggle with, what they want, what they love and what they hate.
+4. Feed it in. This sets the voice, the angles and the reads, in the customer's own language, not mine.
+5. Where the words are missing or a source is blocked, mark it a gap, do not fill it with invented language. The fix is pasting the raw review text, or reading it in my own browser.
+
+Rule: no product's copy or angles are final until a customer read has fed them. Re-check each cycle, wants shift.
+
+---
+
 ## Competitive read (run for every product)
 Document the similar brands and feed it into the overall analysis. This is input, not a mandate.
 1. Map the field. List the brands selling a similar product, direct and adjacent.
