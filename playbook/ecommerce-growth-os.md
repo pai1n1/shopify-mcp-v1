@@ -15,6 +15,16 @@ Rule tags: [V] verified by my own data. [T] testing, not proven. [H] hypothesis,
 
 ---
 
+## Portfolio and pipeline
+Where the money and the focus go. Documented, not a to-do.
+- Active, the two that get the work now: Catify (cat products) and GR8 (GLP-1 supplement).
+- Pipeline, launched after the active brands throw off steady cash: Smile On (dental hygiene), Faceplant (AI flower pot).
+- Backlog, ideas not acted on yet, parked so they are not lost: [add as they come].
+
+Rule: focus stays on the active two until cash flow is strong. A pipeline brand starts only when that cash funds it, and it runs the same opening passes, customer read and competitive read, before any build. Backlog ideas stay parked, documented, not worked until promoted.
+
+---
+
 ## Voice and language
 Governs all copy, angles and market sizing.
 - Speak the customer's language. Use the words customers actually say, from their reviews and conversations, never invented jargon or terms they would not believe or use.
