@@ -44,6 +44,24 @@ The if-then rules that encode judgment so I do not re-decide from scratch. Fill 
 
 ---
 
+## Business decision rules (budget and scaling)
+The money logic, so I scale on proof, not hope. Seeded, fill the rest from my data.
+- Start small. If budget is thin, run 1 ad set before 2, so the spend is not spread too thin. [V]
+- Scale on proof. Add a second ad set only after the first converts and pays for it. [V]
+- Move winners, then test around them. When an ad wins, either move it to its own set or test variations of it, one move at a time, not both. [T]
+- Daily budget floor, when to duplicate, when to kill: [fill from my data]
+
+---
+
+## Ad style library (numbered, product agnostic)
+Locked styles so I say a number, not a paragraph. Each style stores format, layout, font and a prompt template, and applies to any product I sell.
+- Style 1: [name, for example static, text spread, named font, layout] [define]
+- Style 2: [native] [define]
+- Style 3: [commercial] [define]
+Usage: "Generate 2 of Style 1 for [product]." The style carries the look, the product just swaps in. New styles get the next number once I confirm I like them.
+
+---
+
 ## Store log
 One entry per store. What I ran, what worked, what hurt, the number, the decision, the outcome. This is where patterns come from.
 - [store]: [fill on laptop]
