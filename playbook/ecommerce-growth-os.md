@@ -17,7 +17,8 @@ Rule tags: [V] verified by my own data. [T] testing, not proven. [H] hypothesis,
 
 ## Portfolio and pipeline
 Where the money and the focus go. Documented, not a to-do.
-- Active, the two that get the work now: Catify (cat products) and GR8 (GLP-1 supplement).
+- Active, the only two that get the work now: Catify (cat products) and GR8 (GLP-1 supplement).
+- iMeow, a prior cat brand (imeow.store), is not active. Its data and learnings feed Catify, same cat-parent customer.
 - Pipeline, launched after the active brands throw off steady cash: Smile On (dental hygiene), Faceplant (AI flower pot).
 - Backlog, ideas not acted on yet, parked so they are not lost: [add as they come].
 
@@ -107,7 +108,9 @@ Usage: "Generate 2 of Style 1 for [product]." The style carries the look, the pr
 
 ## Store log
 One entry per store. What I ran, what worked, what hurt, the number, the decision, the outcome. This is where patterns come from.
-- [store]: [fill on laptop]
+- iMeow (prior cat brand, imeow.store): the predecessor to Catify, same customer. Pull all its Meta ads and Shopify data into this log, what won, what hurt, the numbers. The creative work already in the repo creative folder is iMeow learning, carry it to Catify. Known so far: the envy angle won near a 58 dollar CPA, cheap cute creative recruited non-buyers and drove near zero add to cart, context has to land in the first two seconds.
+- Catify: inherits iMeow's learnings as the starting point, then runs its own customer and competitive reads.
+- GR8: [fill on laptop]
 
 ---
 
