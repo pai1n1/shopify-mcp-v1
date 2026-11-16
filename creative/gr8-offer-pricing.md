@@ -1,17 +1,18 @@
 # GR8 — Offer and Pricing (locked)
 
 ## Prices
-- One time: 1 bag, $90.
+- One time: 1 bag, $79.
 - Subscription: 1 bag monthly, $69.
 - No third tier for now. Two offers only.
 
 ## Cost per bag (landed)
 - Product, factory (Alice): $29.26.
 - Shipping and fulfillment, GOShip at 10 orders a day: $20.35 (parcel $17.90 + handling $1.99 + packaging $0.46).
-- Landed cost per bag: $49.61, call it $50. Subtract $50 from any price to see what pays for ads and profit.
+- Landed cost per bag: about $50. Subtract $50 from any price to see what pays for ads and profit.
+- Shipping is a volume rate. $20.35 is the 10 orders a day tier, the lowest GOShip quoted. At 1 order a day it is higher, handling and packaging stay fixed but the parcel rate rises. Still to confirm with GOShip: the fulfillment total at 1 order per day. At scale it falls, 100 a day is $17.60.
 
 ## Margin
-- One time $90: keeps about $40 before ads.
+- One time $79: keeps about $29 before ads.
 - Subscription $69: keeps about $19 every renewal, no ad cost after the first order.
 - Rule: do not price the subscription near $50. At $55 it kept only about $5 and never paid back before churn. $69 is the floor that works.
 
