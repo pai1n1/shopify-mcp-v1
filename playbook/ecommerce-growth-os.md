@@ -73,6 +73,7 @@ Creative strategy
 - Cohesive funnel. Every ad has one job that serves the one shared goal, a sale. [V]
 - Each ad must do one of three things: answer a question, give a reason to buy, or give information they did not have that strengthens buying intent. [V]
 - One ad, one job. If an ad cannot state its job in a line, it is not ready. [V]
+- Lead with emotion, outcome or situation, what they want out of or into. Ingredients appear only as the feeling or result they give, never as the spec. Specs live on the PDP and label, where the skeptic goes. The ad wins the scroll with the outcome, the page closes with the proof. [V]
 
 New rules go here as I learn them.
 
