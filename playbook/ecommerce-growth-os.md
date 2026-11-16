@@ -31,6 +31,8 @@ Governs all copy, angles and market sizing.
 - Speak the customer's language. Use the words customers actually say, from their reviews and conversations, never invented jargon or terms they would not believe or use.
 - If I do not have their words yet, mark it a gap. Do not fill it with language they do not speak.
 - This applies to the TAM too. Size and describe the market in the customer's terms, not a foreign vocabulary.
+- Describe the problem and the solution as literally and specifically as possible, in their words, the exact felt moment, not a summary. The more word for word their experience, the better it converts.
+- Product and message develop in tandem. Every promise the copy makes, the product must deliver, dose, taste, solubility, daily experience, or retention breaks. The copy sets the spec, the product keeps the copy honest.
 
 ---
 
