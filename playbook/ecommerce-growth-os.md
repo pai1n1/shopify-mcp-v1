@@ -79,6 +79,7 @@ Creative strategy
 - Short and punchy by default, a headline plus one or two lines. Long copy only for an informational or listicle ad. Descriptive, visual, direct, easy reading level, community words kept real, not forced. [V]
 - Match the wording to the awareness level. Problem-aware names the problem, solution-aware shows the result, product-aware says why us, most-aware gives the offer. [V]
 - Tag every ad with four identifiers: Job, Angle, Awareness, Avatar. [V]
+- Paint it, do not state it. The problem is what happens because they are not using it, the outcome is what happens the moment they do. Use concrete visible words, mirror, stairs, soft, solid, shrink, to make them feel it, not more sentences. [V]
 
 New rules go here as I learn them.
 

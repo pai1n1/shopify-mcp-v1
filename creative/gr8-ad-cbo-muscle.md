@@ -17,28 +17,32 @@ You are losing more than fat. On a GLP-1 a real share of what you lose is muscle
 - Wording matches the awareness level. Problem-aware names the problem, solution-aware shows the result, product-aware says why us, most-aware gives the offer.
 - Every ad carries four tags: Job, Angle, Awareness, Avatar.
 
-## The four ads (muscle angle, tight and tagged)
+## The four ads (muscle angle, painted, tight, tagged)
+Paint it. The problem is what happens because you are not handling it, the outcome is what happens the moment you do. Concrete visible words carry the emotion, mirror, stairs, soft, solid, shrink. No extra sentences.
 
-### Ad 1
-- On image: "THE SCALE'S MOVING. SO IS YOUR MUSCLE."
-- Text: on the shot, a lot of what you lose isn't fat. It's muscle.
+### Ad 1, problem painted without the fix
+- On image: "THE WEIGHT'S GOING. SO IS THE BODY YOU WANTED."
+- Text: thinner in the mirror, but weaker on the stairs and soft where you used to be solid. On the shot, the muscle leaves with the fat.
 - Job hook · Angle muscle · Awareness problem-aware · Avatar both
 
-### Ad 2
-- On image: "LOSE THE WEIGHT. KEEP YOUR STRENGTH."
-- Text: one scoop a day covers what the shot can't. Come out lighter and still strong.
+### Ad 2, outcome painted with the product
+- On image: "STEP OFF THE SCALE LIGHTER. AND STRONGER."
+- Text: one scoop a day and the weight still drops, but this time the strength stays. You come out the version of you that you were actually after.
 - Job outcome · Angle muscle · Awareness solution-aware · Avatar both
 
-### Ad 3
-- On image: "YOUR GREENS DON'T DO THIS."
-- Text: most daily powders skip the one thing that holds your muscle. GR8 doesn't.
+### Ad 3, the fork painted both ways
+- On image: "SAME WEIGHT GONE. TWO DIFFERENT RESULTS."
+- Text: without it you shrink and soften. With GR8 you come out lean and still strong. The only question is which one you walk out as.
 - Job differentiate · Angle muscle · Awareness product-aware · Avatar both
 
-### Ad 4
-- On image: a real quote, "Came off lighter, still strong," five stars.
-- Text: doing GLP-1 the smart way. 30 day money back, cancel anytime.
+### Ad 4, social proof painted through her result
+- On image: a real quote, "Came off smaller, but somehow stronger. Didn't lose myself this time," five stars.
+- Text: real people who lost the weight and kept the strength they were scared to lose. 30 day money back, cancel anytime.
 - Job close · Angle muscle · Awareness most-aware · Avatar both
 - Testimonial must be real, this is a placeholder.
+
+## Compliance on wording
+Words like "the weight's going" and "lighter" describe her drug experience, not a GR8 promise, so keep GR8's claim on strength and muscle. No pounds numbers, no before and after bodies. Use "two different results," not "two different bodies."
 
 ## Compliance note on wording
 "No more muscle loss, just fat loss" reads strong but "fat loss" is weight-loss-adjacent and Meta can flag it on a supplement. Safer, same feeling: "lose the weight, keep your strength," or "keep your muscle, not just the scale." The drug does the weight loss, GR8 keeps the muscle. Never a before and after body, structure and function only.
