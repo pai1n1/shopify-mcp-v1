@@ -82,6 +82,9 @@ Creative strategy
 
 New rules go here as I learn them.
 
+### Copy formulas (swappable hooks, add winners as I find them)
+- Two-beat parallel hook. Beat one, the win they feel. Beat two, the hidden cost in the same shape. The mirror is the engine. Pattern: "[the win, a verb of dropping or falling]. So is [the thing they do not want to lose]." Swap either slot for instant variations, and swap the loss to carry it across angles, muscle, bone, hair, energy. One formula, many ads, no extra volume.
+
 ---
 
 ## Decision rules (thresholds)
