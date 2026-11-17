@@ -76,6 +76,9 @@ Creative strategy
 - Each ad must do one of three things: answer a question, give a reason to buy, or give information they did not have that strengthens buying intent. [V]
 - One ad, one job. If an ad cannot state its job in a line, it is not ready. [V]
 - Lead with emotion, outcome or situation, what they want out of or into. Ingredients appear only as the feeling or result they give, never as the spec. Specs live on the PDP and label, where the skeptic goes. The ad wins the scroll with the outcome, the page closes with the proof. [V]
+- Short and punchy by default, a headline plus one or two lines. Long copy only for an informational or listicle ad. Descriptive, visual, direct, easy reading level, community words kept real, not forced. [V]
+- Match the wording to the awareness level. Problem-aware names the problem, solution-aware shows the result, product-aware says why us, most-aware gives the offer. [V]
+- Tag every ad with four identifiers: Job, Angle, Awareness, Avatar. [V]
 
 New rules go here as I learn them.
 

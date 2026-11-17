@@ -10,34 +10,35 @@ Structure: CBO, one ad set, four static ads, one angle in four formats, all driv
 ## The angle
 You are losing more than fat. On a GLP-1 a real share of what you lose is muscle, and 5g of creatine a day is the most studied way to help hold onto it. Every ad carries this, four ways.
 
-## Creative rule (applies to every ad)
-Lead with the emotion, the outcome, or the situation they want out of or into. Ingredients appear only as the feeling or result they give, never as the spec. Grams and the panel live on the PDP and the label, where the skeptic goes to be convinced. The ad wins the scroll with the outcome, the page closes with the proof.
+## Creative rules (every ad)
+- Lead with emotion, outcome, or the situation they want out of or into. Ingredients only as the feeling or result they give, never the spec. Specs live on the PDP and label.
+- Short and punchy by default: a headline plus one or two lines. Long copy only for an informational or listicle ad.
+- Descriptive, visual, direct, easy reading level, and community words kept real, not forced.
+- Wording matches the awareness level. Problem-aware names the problem, solution-aware shows the result, product-aware says why us, most-aware gives the offer.
+- Every ad carries four tags: Job, Angle, Awareness, Avatar.
 
-## The four ads (one angle, four formats, all outcome led)
+## The four ads (muscle angle, tight and tagged)
 
-### Ad 1, the situation they want out of
-- Job: stop the scroll, name the hidden cost.
-- Visual: bag on clean ground, one bold line.
-- On image: "ON A GLP-1? YOU'RE LOSING MUSCLE TOO." emphasize MUSCLE.
-- Primary text: the drug is working, but a real share of the weight is muscle. GR8 handles the part the drug cannot, so you keep it. Soft CTA, see how.
+### Ad 1
+- On image: "THE SCALE'S MOVING. SO IS YOUR MUSCLE."
+- Text: on the shot, a lot of what you lose isn't fat. It's muscle.
+- Job hook · Angle muscle · Awareness problem-aware · Avatar both
 
-### Ad 2, the outcome they want
-- Job: the relief, the result.
-- Visual: bag, calm confident scene, one line.
-- On image: "WE MADE THE HARD PART EASY." or "LOSE THE WEIGHT. KEEP YOUR STRENGTH."
-- Primary text: you should not have to choose between losing the weight and keeping your strength. GR8 handles the part the drug cannot, so you come out lighter and still strong, in one daily scoop. No spec, just the result.
+### Ad 2
+- On image: "LOSE THE WEIGHT. KEEP YOUR STRENGTH."
+- Text: one scoop a day covers what the shot can't. Come out lighter and still strong.
+- Job outcome · Angle muscle · Awareness solution-aware · Avatar both
 
-### Ad 3, the contrast as outcome
-- Job: kill the "I already take something" objection, as a feeling not a spec sheet.
-- Visual: soft vs strong, or two columns framed by outcome.
-- On image: "COME OUT STRONGER, NOT SMALLER."
-- Primary text: losing the weight is the easy part now, keeping your strength is the part nobody helps with, and most daily powders do nothing for it. GR8 is built for exactly that. CTA.
+### Ad 3
+- On image: "YOUR GREENS DON'T DO THIS."
+- Text: most daily powders skip the one thing that holds your muscle. GR8 doesn't.
+- Job differentiate · Angle muscle · Awareness product-aware · Avatar both
 
-### Ad 4, social proof, the feeling
-- Job: belief, then the offer.
-- Visual: clean review card, verified tag, five stars.
-- On image: a real quote about the outcome, "I came off lighter and still strong," plus stars.
-- Primary text: real people who did GLP-1 without losing themselves, a true testimonial about keeping their strength or energy, then nothing that touches your bloodwork, 30 day money back, cancel anytime. CTA, try GR8.
+### Ad 4
+- On image: a real quote, "Came off lighter, still strong," five stars.
+- Text: doing GLP-1 the smart way. 30 day money back, cancel anytime.
+- Job close · Angle muscle · Awareness most-aware · Avatar both
+- Testimonial must be real, this is a placeholder.
 
 ## Compliance note on wording
 "No more muscle loss, just fat loss" reads strong but "fat loss" is weight-loss-adjacent and Meta can flag it on a supplement. Safer, same feeling: "lose the weight, keep your strength," or "keep your muscle, not just the scale." The drug does the weight loss, GR8 keeps the muscle. Never a before and after body, structure and function only.
