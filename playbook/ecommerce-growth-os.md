@@ -127,6 +127,7 @@ One entry per store. What I ran, what worked, what hurt, the number, the decisio
 ## Changelog
 A dated line every time something changes. This is the self-learning trail.
 - 2026-11-15 Created the OS. Seeded the Meta doctrine from current knowledge.
+- 2026-11-18 Added creative/gr8-brand-system.md. Modeled GR8 on ARIH: brand platform over single product, locked design system, coined category, earned tribe.
 
 ---
 
